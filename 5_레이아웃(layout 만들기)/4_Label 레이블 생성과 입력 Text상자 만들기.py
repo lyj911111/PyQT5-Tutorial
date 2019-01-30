@@ -1,4 +1,5 @@
-# Grid 격자형으로 버튼 계산기 만들기 (레이아웃)
+# 레이블 옆에 Text 입력 상자 만들기.
+# 한줄짜리 Text상자, 여러줄짜리 Text상자
 
 import sys
 from  PyQt5.QtWidgets import (QApplication, QTextEdit, QWidget,
